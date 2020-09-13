@@ -6,6 +6,8 @@
 Download and place the data file (in csv) format inside `input` folder. The data can be downloaded from [here](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 
+Download and place the bert model inside `input' folder from [here](https://www.kaggle.com/abhishek/bert-base-uncased)
+
 ### Create conda environment
 
 All required libraries are listed inside `environment.yml` file. You can create an exact environment using the following command:
